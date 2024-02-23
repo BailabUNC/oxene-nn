@@ -1,3 +1,6 @@
 *.xlsx
 
 /__pycache__/*
+
+# 3d files
+/3d/*
